@@ -1,0 +1,5 @@
+.DS_Store
+.claude/
+# Old studio site copy and images the wedding site does not use
+studio-site/
+img/work/
